@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "5e9ee7911c9d4400003d15c6"
+  },
+  "providerId": "api.provider.com",
+  "vehicleId": "21232F297A57A5A743894A0E4A801FC3",
+  "routeId": 3,
+  "id": "C4CA4238A0B923820DCC509A6F75849B"
+},{
+  "_id": {
+    "$oid": "5e9ee8241c9d4400003d15c7"
+  },
+  "providerId": "api.provider.com",
+  "vehicleId": "21232F297A57A5A743894A0E4A802FC3",
+  "routeId": 5,
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea2bc931d81b83a4c34f52e"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A801FC8",
+  "routeId": 10,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea2bcaf1d81b83a4c34f52f"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A801FC5",
+  "routeId": 11,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea7d960a57b8316b8d56d8d"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A806FC1",
+  "routeId": 16,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea7e19af63d45356401808c"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A807FC1",
+  "routeId": 5,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea7e248b40b062be0c41b98"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A802FC1",
+  "routeId": 10,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea7e2e9559a13094c89159e"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A801FC9",
+  "routeId": 11,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea7e3536abdc91c9c990343"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A801FC10",
+  "routeId": 5,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea7e3870ebe191ab4565d7e"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A801FC11",
+  "routeId": 11,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea7e3f753d8813538831a94"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A801FC12",
+  "routeId": 11,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea7e44cf9b8a90dc4069a33"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A801FC13",
+  "routeId": 4,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea7e9fec79f0c2b80594ae3"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A801FC17",
+  "routeId": 13,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea7eb46f29aca29c48d3ca4"
+  },
+  "vehicleId": "21232F297A57A5A743894A0E4A801FC18",
+  "routeId": 17,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea84ec08ff3828b1cf1f680"
+  },
+  "vehicleId": null,
+  "routeId": 14,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+},{
+  "_id": {
+    "$oid": "5ea93444b8c64812f4501877"
+  },
+  "vehicleId": "MH12EK7294",
+  "routeId": 8,
+  "providerId": "api.provider.com",
+  "id": "C4CA4238A0B923820DCC509A6F75859B"
+}]

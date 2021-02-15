@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "5e8758ef1c9d440000ecb8b1"
+  },
+  "deviceId": "T40505",
+  "deviceName": "T40505",
+  "routeId": "2"
+},{
+  "_id": {
+    "$oid": "5e875f991c9d440000ecb8b2"
+  },
+  "deviceId": "T40507",
+  "deviceName": "T40507",
+  "routeId": "20"
+},{
+  "_id": {
+    "$oid": "5e875fca1c9d440000ecb8b3"
+  },
+  "deviceId": "T40506",
+  "deviceName": "t40506",
+  "routeId": "14"
+},{
+  "_id": {
+    "$oid": "5e875fea1c9d440000ecb8b4"
+  },
+  "deviceId": "T40508",
+  "deviceName": "T40508",
+  "routeId": "13"
+},{
+  "_id": {
+    "$oid": "5e9015791c9d4400004b90a7"
+  },
+  "deviceId": "E2ESCV016",
+  "deviceName": "tapedaile1j",
+  "routeId": "5"
+},{
+  "_id": {
+    "$oid": "5ec3905abc50a123a8984f1f"
+  },
+  "deviceId": "T40504",
+  "deviceName": "T40504",
+  "routeId": 3,
+  "webhookId": 23,
+  "counter": 12699
+},{
+  "_id": {
+    "$oid": "5ec5244cc8182f10ccd801d0"
+  },
+  "deviceId": "T30509",
+  "deviceName": "T30509",
+  "routeId": "1"
+},{
+  "_id": {
+    "$oid": "5ec52494c8182f10ccd801d1"
+  },
+  "deviceId": "T30500",
+  "deviceName": "T30500",
+  "routeId": "2",
+  "counter": 0,
+  "webhookId": 0
+},{
+  "_id": {
+    "$oid": "5ec524c1c8182f10ccd801d2"
+  },
+  "deviceId": "T30501",
+  "deviceName": "T30501",
+  "routeId": "3",
+  "counter": 321,
+  "webhookId": 24
+},{
+  "_id": {
+    "$oid": "5ec524e0c8182f10ccd801d3"
+  },
+  "deviceId": "T30502",
+  "deviceName": "T30502",
+  "routeId": "4",
+  "counter": 0,
+  "webhookId": 0
+},{
+  "_id": {
+    "$oid": "5ec52502c8182f10ccd801d4"
+  },
+  "deviceId": "T30503",
+  "deviceName": "T30503",
+  "routeId": "5",
+  "counter": 0,
+  "webhookId": 0
+},{
+  "_id": {
+    "$oid": "5ec5253bc8182f10ccd801d5"
+  },
+  "deviceId": "T30504",
+  "deviceName": "T30504",
+  "routeId": "6",
+  "counter": 163,
+  "webhookId": 25
+},{
+  "_id": {
+    "$oid": "5ec5255dc8182f10ccd801d6"
+  },
+  "deviceId": "T30505",
+  "deviceName": "T30505",
+  "routeId": "7",
+  "counter": 0,
+  "webhookId": 0
+},{
+  "_id": {
+    "$oid": "5ec52580c8182f10ccd801d7"
+  },
+  "deviceId": "T30506",
+  "deviceName": "T30506",
+  "routeId": "8",
+  "counter": 0,
+  "webhookId": 0
+},{
+  "_id": {
+    "$oid": "5ec525a8c8182f10ccd801d8"
+  },
+  "deviceId": "T30507",
+  "deviceName": "T30507",
+  "routeId": "9",
+  "counter": 0,
+  "webhookId": 0
+},{
+  "_id": {
+    "$oid": "5ec525bec8182f10ccd801d9"
+  },
+  "deviceId": "T30508",
+  "deviceName": "T30508",
+  "routeId": "10",
+  "counter": 0,
+  "webhookId": 0
+},{
+  "_id": {
+    "$oid": "5eddfae00f558a84117d57d3"
+  },
+  "deviceId": "G11260",
+  "deviceName": "G11260",
+  "routeId": "1",
+  "counter": 247,
+  "webhookId": 22
+},{
+  "_id": {
+    "$oid": "5eddfb1c0f558a84117d57d4"
+  },
+  "deviceId": "G11266",
+  "deviceName": "G11266",
+  "routeId": "2"
+},{
+  "_id": {
+    "$oid": "5ede83d19e5ce728f3dc5e00"
+  },
+  "deviceId": "T40509",
+  "deviceName": "T40509",
+  "routeId": 1,
+  "webhookId": null,
+  "counter": 7
+}]
